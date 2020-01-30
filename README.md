@@ -27,10 +27,10 @@ A simple slam book app with firebase. Made for one person, who will share with f
 
 # Screens
 
-![login](https://github.com/AP-Atul/Slam-Book/tree/master/screens/login.png "Login Screen")
-![register](https://github.com/AP-Atul/Slam-Book/tree/master/screens/register.png "Register Screen")
-![friends](https://github.com/AP-Atul/Slam-Book/tree/master/screens/friends.png "Friends Screen")
-![profile](https://github.com/AP-Atul/Slam-Book/tree/master/screens/profile.png "Profile Screen")
-![all](https://github.com/AP-Atul/Slam-Book/tree/master/screens/all.png "All Friends Screen")
-![form](https://github.com/AP-Atul/Slam-Book/tree/master/screens/form.png "Form Screen")
+![login](https://github.com/AP-Atul/Slam-Book/blob/master/screens/login.png "Login Screen")
+![register](https://github.com/AP-Atul/Slam-Book/blob/master/screens/register.png "Register Screen")
+![friends](https://github.com/AP-Atul/Slam-Book/blob/master/screens/friends.png "Friends Screen")
+![profile](https://github.com/AP-Atul/Slam-Book/blob/master/screens/profile.png "Profile Screen")
+![all](https://github.com/AP-Atul/Slam-Book/blob/master/screens/all.png "All Friends Screen")
+![form](https://github.com/AP-Atul/Slam-Book/blob/master/screens/form.png "Form Screen")
 
