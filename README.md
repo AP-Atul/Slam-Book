@@ -13,9 +13,6 @@ A simple slam book app with firebase. Made for one person, who will share with f
         "Slam" : {
             "0" : "user-answer-for-q0",
             "1" : "user-answer-for-q1",
-            .
-            .
-            .
             "15" : "user-answer-for-q15"
         },
         "UserImages" : {
